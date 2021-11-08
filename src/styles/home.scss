@@ -1,0 +1,58 @@
+.home-container {
+  border: 1px solid black;
+}
+
+h2.ant-typography.main-title {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 0;
+  background: #eeeeee;
+}
+
+.main-content {
+  padding: 30px;
+}
+
+.create-match {
+  border-color: black;
+  box-shadow: none;
+}
+
+.variables-require {
+  max-height: 450px;
+  overflow-x: hidden;
+  margin-top: 10px;
+}
+
+.variables-require div.ant-form-item-label-left {
+  border: 1px solid #b5b5b5;
+  display: flex;
+  align-items: center;
+  background: #eee;
+  margin-right: 20px;
+}
+
+.variables-require div.ant-form-item-label-left label {
+  display: flex;
+  padding-left: 10px;
+}
+
+.variables-require h5 {
+  font-weight: normal;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.variables-require .ant-row-start {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ant-col-sm-24.ant-form-item-label {
+  padding: 0;
+}
+
+.set-format-section {
+  overflow-x: auto;
+}

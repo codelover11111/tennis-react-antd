@@ -1,0 +1,61 @@
+body {
+  height: auto;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.m-0 {
+  margin: 0!important;
+}
+
+.p-1 {
+  padding: 0.1rem;
+}
+
+.p-2 {
+  padding: 0.2rem;
+}
+
+.p-3 {
+  padding: 0.3rem;
+}
+
+.p-4 {
+  padding: 0.4rem;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.ant-input:focus, .ant-input:hover {
+  border-color: #4547e2;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner,
+.ant-checkbox-checked::after,
+.ant-checkbox-checked .ant-checkbox-inner {
+  border-color: #4547e2!important;
+}
+
+.ant-checkbox-inner, .ant-checkbox-wrapper:hover .ant-checkbox-inner {
+  border-color: #B8B8B8!important;
+}
+
+.ant-form-item {
+  margin-bottom: 10px;
+}
+
+.ant-form-item-label > label {
+  height: 20px;
+}
